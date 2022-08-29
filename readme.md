@@ -1,0 +1,1 @@
+Exercícios propostos e próprios, desenvolvidos durante o 1º Bootcamp de Dados da Mulheres em IA (MIA), sobre os tópicos: Introdução à Ciência de Dados; Introdução à Engenharia de Dados; Análise Exploratória de Dados; Visualização de Dados; Regressão; Classificação; Clustering e Ensemble.
